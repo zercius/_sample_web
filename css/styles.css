@@ -1,6 +1,6 @@
 <style>
 
-/**Dowload & Apply Special Fonts/
+/**Dowload & Apply Special Fonts */
 @font-face{
 	font-family:"Poppins";
 	src:url(/css/fonts/poppins.woff);
@@ -10,13 +10,16 @@ body{font-size: 16px;}
 
 /*Reset all default css*/
 html, body{ height: 100%; }
-body{ margin: 0px;padding: 0px;background: #2056ac;font-family: 'Questrial', sans-serif;font-size: 12pt;color: rgba(0,0,0,.6); }
+body{ margin: 0px; padding: 0px; background: #ccc; 
+      font-family: 'Questrial', sans-serif;
+      font-size: 12pt; color: rgba(0,0,0,.6);
+    }
 h1, h2, h3{ margin: 0;padding: 0;color: #404040; }
 p, ol, ul{ margin-top: 0; }
 ol, ul{ padding: 0;list-style: none; }
 p{ line-height: 180%; }
 strong{	}
-a{ color: #2056ac; }
+a{ color: #ccc; }
 a:hover{ text-decoration: none; }
 .container{ margin: 0px auto; width: 1200px; }
 	
