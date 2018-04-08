@@ -1,6 +1,11 @@
 <style>
 
-
+@charset 'UTF-8';
+/**Dowload & Apply Special Fonts */
+@font-face{
+	font-family:"Poppins";
+	src:url(/css/fonts/poppins.woff);
+} 
 
 
 /*********************************************************************************/
